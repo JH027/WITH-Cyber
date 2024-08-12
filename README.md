@@ -13,7 +13,7 @@ extracting: steghide extract -sf image.jpg<br/>
   -xf: extract file(output file where hidden data will be saved)<br/>
 
 I also learned about important concepts in cyersecurity, such as the **CIA triad**, which was **confidentiality, integrity, and availability**. Confidentiality meant protecting information from others, integrity meant protecting from modification, and availability meant having the information be easily accessible. Another important concept was learning about the different kinds of malware, including ransomware(blackmail), spyware(steal data), adware(spam w/ ads), worms(spread across computers), trojans(sneak malware onto PC), botnets(turn PC into a zombie),etc. I also learned about the **Open Web Application Security Project (OWASP) Juice Shop**, which is a purposely insecure web application used in security trainings. In the sessions, we were able to test it out, finding flaws in the website that would make it susceptible to security attacks.
-</br>
+</br></br>
 Another important takeaway from this camp was from the guest speakers. From a UC Berkeley alumni, I learned about the college application process and computer science pathways at UC Berkeley, as well as internship opportunities to college students. From a student assistant at SJSU, I learned about **supervised**(classification) and **unsupervised**(clustering) learning. I also learned how machine learning involved a training and testing phase. And from professionals in the cybersecurity industry, I learned about ways to prevent security risks, examples of real-life scenarios that involved security breaches, as well as how cybersecurity can be used in forensics to aid police. 
-</br>
+</br></br>
 Overall, I learned a lot from this camp and made amazing memories as well. I am extremely grateful to have been a part of this experience and I have definitely gained a deeper understanding and appreciation for cybersecurity.
